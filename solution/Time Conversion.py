@@ -1,4 +1,4 @@
-#https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=false
+https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=false
 
 s=input()
 time=s[8:]
