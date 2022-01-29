@@ -1,4 +1,5 @@
-# HackeRank-ProblemSolving-with-Python
+# HackeRank-ProblemSolving-with-Python           
+problem count : 34
 
 ### in this branch i'll put all solutions of problem solving from hackerank in python.
 #### * all question link are given as first line of solution code .
